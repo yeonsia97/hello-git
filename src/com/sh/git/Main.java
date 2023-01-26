@@ -20,5 +20,9 @@ public class Main {
 
 
 	}
+	
+	public void feature() {
+		
+	}
 
 }
